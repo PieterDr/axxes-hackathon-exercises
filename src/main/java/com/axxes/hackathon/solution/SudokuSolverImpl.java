@@ -1,4 +1,4 @@
-package com.axxes.hackathon.olution;
+package com.axxes.hackathon.solution;
 
 import com.axxes.hackathon.axxercise.exercise.SudokuSolver;
 
